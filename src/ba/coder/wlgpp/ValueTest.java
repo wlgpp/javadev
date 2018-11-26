@@ -4,7 +4,6 @@ public class ValueTest {
 	int globalVariable = 5;
 
 	public static void main(String[] args) {
-
 		int aVal = 10;
 		int bVal = 5;
 		int Tot;
