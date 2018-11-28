@@ -10,7 +10,7 @@ public class ValueTest {
 		
 		Tot = aVal + bVal;
 		System.out.println(Tot);
-			
+		
 		}
 	
 	public void add() {
