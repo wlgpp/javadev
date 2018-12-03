@@ -1,5 +1,5 @@
 package ba.coder.wlgpp.day2;
-
+/*
 import javax.swing.JOptionPane;
 
 public class InputVal {
@@ -16,7 +16,7 @@ public class InputVal {
 		return result;
 	}
 	
-	
+	*/
 	
 
 }
